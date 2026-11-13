@@ -1,7 +1,7 @@
 # fahadvx32-rgb
 # 👋 Hi, I'm Shah Fahad
 
-### Software Engineer | Aspiring AI Developer 🚀
+### Software Engineer | Aspiring AI Developer 
 
 I'm passionate about building modern web applications, exploring Artificial Intelligence, and turning innovative ideas into real-world solutions.
 
